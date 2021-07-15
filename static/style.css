@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    color: white;
+    background-color: #00000085;
+}
+body{
+    background: url(img/bg.jpg) no-repeat;
+    background-size: cover;
+
+}
+#form{
+    color: white;
+    padding: 20px;
+    width: 40vw;
+    position: absolute;
+    top: 30vh;
+    left: 30vw;
+    background-color: #00000085;
+}
+#button{
+    position: relative;
+    left: 15vw;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+#button:hover{
+    background-color: white;
+    color: black;
+}
